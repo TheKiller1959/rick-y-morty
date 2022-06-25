@@ -32,7 +32,7 @@ npm run start
 npm run test
 ```
 
-## Author
+## Authors
 
 👤 **Jose Moya (Jhoseb29) & Wilmar Rodriguez (TheKiller1959)**
 
