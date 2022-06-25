@@ -39,7 +39,7 @@ npm run test
 * Website: https://thekiller1959dev.netlify.app, https://josemoya.netlify.app
 * Twitter: [@thekiller1959, @Jose_Jhoseb](https://twitter.com/thekiller1959, https://twitter.com/Jose_Jhoseb)
 * Github: [@jhoseb29, @thekiller1959](https://github.com/jhoseb29, https://github.com/thekiller1959)
-* LinkedIn: [@wilmar-rodriguez-a72635231, @jhoseb29](https://linkedin.com/in/wilmar-rodriguez-a72635231, https://linkedin.com/in/jhoseb29)
+* LinkedIn: [@thekiller1959, @jhoseb29](https://linkedin.com/in/wilmar-rodriguez-a72635231, https://linkedin.com/in/jhoseb29)
 
 ## Show your support
 
