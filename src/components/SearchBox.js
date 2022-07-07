@@ -30,7 +30,7 @@ const SearchBox = () => {
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           src={<FcSearch/>}
-          placeholder="🔎 Search by location"
+          placeholder="🔎   Search by location"
         />
       </div>
       {search !== "" && (
